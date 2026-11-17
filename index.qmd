@@ -57,9 +57,9 @@ This is a collaborative enterprise, where various authors contribute to specific
 
 - [Preface](preface.qmd) explains the rationale and the broader picture
 
-- [Open publications](section2.qmd) covers the availability of research output and publications 
+- [Open publications](section2.qmd) covers the availability of research output and publications
 
-- [Open data](section3.qmd) handles the availability of research data 
+- [Open data](section3.qmd) handles the availability of research data
 
 - [Reproducible research](section4.qmd) is about reproducible research, research code and software
 
@@ -70,4 +70,3 @@ This is a collaborative enterprise, where various authors contribute to specific
 - [Preregistration](section7.qmd) details study preregistration
 
 - [Resources](resources.qmd) offers links to online resources
-
