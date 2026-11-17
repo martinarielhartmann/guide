@@ -7,6 +7,7 @@ A collection of resources related to open research.
 - [Open Science: A Practical Guide for Early-Career Researchers](https://zenodo.org/records/7716153)
 - [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
 - [Fairsharing](https://fairsharing.org)
+- [Good Scientific Code Workshop](https://github.com/JuliaDynamics/GoodScientificCodeWorkshop/tree/main)
 
 ## Preregistration services
 
