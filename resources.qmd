@@ -23,6 +23,7 @@ A collection of resources related to open research.
 - Compare registration with papers, see [https://regcheck.app](https://regcheck.app)
 - [rOpenSci](https://ropensci.org/) - Tools, conferences, and education
 - [pyOpenSci](https://www.pyopensci.org/) - Promotes open and reproducible research through peer-review of scientific Python packages
+- [re3data](https://re3data.org/) - Registry of Research Data Repositories
 
 ## Organisations and networks
 
